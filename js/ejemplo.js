@@ -1,5 +1,4 @@
 const boton = document.getElementById('botoncito');
-
 const input  = document.getElementById('cuadrito');
 const marco = document.getElementsByClassName('marco');
 console.log(marco);
